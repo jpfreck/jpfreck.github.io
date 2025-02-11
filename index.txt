@@ -1,0 +1,38 @@
+<!DOCTYPE HTML>
+
+<html lang="en">
+    <body> 
+    <head>
+        <!-- My Style -->
+        <link rel="stylesheet" href="css/style.css">
+
+        <!-- Favicon -->
+        <link rel="icon" type="image/svg+xml" href="favicon.ico"> 
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>J0E.COOL</title>
+
+        <!-- Type Shit -->
+        <a href="index.html">
+          <div class="banner">
+            <div class="smallbanner">
+              <img src="images/test.png" class="bannerlogo">
+            </div>
+            <a href="index.html" class="bannertext">J0E COOL</a><br>
+          </div>
+        </a>
+    </head>
+        <center>
+            <div class="signature">
+                <a>By Joe Freck</a>
+            </div>
+            <div class="mainmenu">
+                <a class="menuitem" href="about.html">ABOUT</a><br>
+                <a class="menuitem" href="contact.html">PORTFOLIO</a><br>
+                <a class="menuitem" href="work.html">WORK</a><br>
+                <a class="menuitem" href="contact.html">CONTACT</a><br>
+                
+            </div>
+        </center>
+    </body>
+</html>

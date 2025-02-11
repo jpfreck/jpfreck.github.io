@@ -1,0 +1,32 @@
+<!DOCTYPE HTML>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>J0E.COOL</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" type="image/svg+xml" href="favicon.ico">
+</head>
+
+<body>
+    <div class="banner">
+        <div class="smallbanner">
+            <img src="images/test.png" class="bannerlogo"><br>
+            <a href="index.html" class="bannertext">J0E COOL</a><br>
+        </div>
+        
+        <div class="signature">
+            <h2>BY JOEY FRECK</h2>
+        </div>
+    </div>
+    
+    <div class="mainmenu">
+        <a class="menuitem" href="about.html">ABOUT</a>
+        <a class="menuitem" href="portfolio.html">PORTFOLIO</a>
+        <a class="menuitem" href="work.html">WORK</a>
+        <a class="menuitem" href="contact.html">CONTACT</a>
+    </div>
+</body>
+
+</html>
